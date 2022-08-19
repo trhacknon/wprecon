@@ -2,8 +2,8 @@
 
 <h1 align="center">WPRecon (Wordpress Recon)</h1>
 <p align="center">
-  <a href="https://lgtm.com/projects/g/blackcrw/wprecon/alerts/"><img alt="Total alerts" src="https://img.shields.io/lgtm/alerts/g/blackcrw/wprecon.svg?logo=lgtm&logoWidth=18"/></a>
-  <img alt="GitHub go.mod Go version (branch)" src="https://img.shields.io/github/go-mod/go-version/blackcrw/wprecon/master?label=Go&logo=go">
+  <a href="https://lgtm.com/projects/g/trhacknon/wprecon/alerts/"><img alt="Total alerts" src="https://img.shields.io/lgtm/alerts/g/trhacknon/wprecon.svg?logo=lgtm&logoWidth=18"/></a>
+  <img alt="GitHub go.mod Go version (branch)" src="https://img.shields.io/github/go-mod/go-version/trhacknon/wprecon/master?label=Go&logo=go">
 </p>
 
 ```
@@ -15,9 +15,9 @@ The purpose of this tool is just to help developers find possible loopholes in t
 ```
 
 <p align="center">
-  <a href="https://github.com/blackcrw/wprecon/wiki/Compile-and-Install">Build & Install</a> •
-  <a href="https://github.com/blackcrw/wprecon/blob/master/LICENSE">License</a> • 
-  <a href="https://github.com/blackcrw">Author</a>
+  <a href="https://github.com/trhacknon/wprecon/wiki/Compile-and-Install">Build & Install</a> •
+  <a href="https://github.com/trhacknon/wprecon/blob/master/LICENSE">License</a> • 
+  <a href="https://github.com/trhacknon">Author</a>
 </p>
 
 <br>
@@ -33,8 +33,8 @@ And for that you will access the official website of golang and will download an
 Once downloaded and installed you will download wprecon directly from github with the command:
 ```
 
-1. `go get github.com/blackcrw/wprecon`
-2. `cd $(go env GOPATH)/src/github.com/blackcrw/wprecon`
+1. `go get github.com/trhacknon/wprecon`
+2. `cd $(go env GOPATH)/src/github.com/trhacknon/wprecon`
 3. `make build`
 4. `make install`
 
